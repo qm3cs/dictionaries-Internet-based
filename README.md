@@ -6,6 +6,6 @@ https://github.com/ybdt/dict-hub
 
 https://github.com/7hang/Fuzz_dic
 
-https://github.com/TheKingOfDuck/fuzzDicts
+https://gitee.com/maxxis/fuzzDicts
 
 https://github.com/rootphantomer/Blasting_dictionary
